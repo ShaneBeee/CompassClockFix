@@ -3,7 +3,7 @@ plugins {
 }
 
 // The Minecraft version we're currently building for
-val minecraftVersion = "1.21.4"
+val minecraftVersion = "1.21.5"
 // Version of ResourcePack
 val projectVersion = "1.0.0"
 

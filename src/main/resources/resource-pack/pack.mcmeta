@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 46,
+    "supported_formats": [46,76],
     "description": "A simple pack to fix compasses/clocks acting silly."
   }
 }
