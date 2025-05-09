@@ -12,3 +12,6 @@ This pack simply changes the items so they work in any dimension that is not the
 - To build the pack run `./gradlew resourcepack`
 
 This will output to the `build/libs` folder.
+
+## DOWNLOAD:
+You can download this resource pack on [**Modrinth**](https://modrinth.com/resourcepack/compass-clock-fixer/versions)
